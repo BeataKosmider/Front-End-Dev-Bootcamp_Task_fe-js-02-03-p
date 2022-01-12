@@ -1,4 +1,4 @@
-function rectangleArea() {
+const rectangleArea = (a, b) => {
   // Zaimplementuj zadanie zgodnie z wytycznymi
 };
 
